@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GRC
+</name>
+</assembly>
+<members>
+<member name="T:GRC.GRCDataSet.ClientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CommandeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CompteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesElectroniquesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesPostalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesTelephoniquesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.FormuleDeTarificationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.InteressementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.PeriodeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.ProduitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.TarificationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.ClientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CommandeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CompteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesElectroniquesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesPostalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesTelephoniquesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.FormuleDeTarificationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.InteressementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.PeriodeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.ProduitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.TarificationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GRC.GRCDataSet.ClientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.CommandeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.CompteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesElectroniquesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesPostalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.CoordonnéesTelephoniquesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.FormuleDeTarificationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.InteressementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.PeriodeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.ProduitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet.TarificationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GRC.GRCDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.ClientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.CommandeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.CompteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.CoordonnéesElectroniquesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.CoordonnéesPostalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.CoordonnéesTelephoniquesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.FormuleDeTarificationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.InteressementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.PeriodeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.ProduitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.TarificationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:GRC.GRCDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(GRC.GRCDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:GRC.GRCDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(GRC.GRCDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:GRC.GRCDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(GRC.GRCDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:GRC.GRCDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:GRC.GRCDataSetTableAdapters.TableAdapterManager.UpdateAll(GRC.GRCDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:GRC.GRCDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:GRC.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GRC.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:GRC.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
